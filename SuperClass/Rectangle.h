@@ -11,8 +11,9 @@ public:
 	int width;
 
 	void getArea() {
-		int area = height * width;
-		cout << "The rectangle's area is " + area << "\n";
+		float area;
+		area = height * width;
+		cout << area;
 	}
 
 

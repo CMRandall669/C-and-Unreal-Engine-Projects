@@ -1,0 +1,15 @@
+﻿  Circle.cpp
+C:\Users\cmrEX\Documents\GitHub\C++ and-Unreal-Engine-Projects\SuperClass\Circle.h(15,15): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+  Rectangle.cpp
+C:\Users\cmrEX\Documents\GitHub\C++ and-Unreal-Engine-Projects\SuperClass\Rectangle.h(15,17): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+  SuperClass.cpp
+C:\Users\cmrEX\Documents\GitHub\C++ and-Unreal-Engine-Projects\SuperClass\Rectangle.h(15,17): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+C:\Users\cmrEX\Documents\GitHub\C++ and-Unreal-Engine-Projects\SuperClass\Circle.h(15,15): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\Users\cmrEX\Documents\GitHub\C++ and-Unreal-Engine-Projects\SuperClass\Triangle.h(14,25): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\Users\cmrEX\Documents\GitHub\C++ and-Unreal-Engine-Projects\SuperClass\SuperClass.cpp(21,6): warning C4101: 'radius': unreferenced local variable
+C:\Users\cmrEX\Documents\GitHub\C++ and-Unreal-Engine-Projects\SuperClass\SuperClass.cpp(18,6): warning C4101: 'height': unreferenced local variable
+C:\Users\cmrEX\Documents\GitHub\C++ and-Unreal-Engine-Projects\SuperClass\SuperClass.cpp(19,6): warning C4101: 'width': unreferenced local variable
+C:\Users\cmrEX\Documents\GitHub\C++ and-Unreal-Engine-Projects\SuperClass\SuperClass.cpp(20,6): warning C4101: 'base': unreferenced local variable
+C:\Users\cmrEX\Documents\GitHub\C++ and-Unreal-Engine-Projects\SuperClass\SuperClass.cpp(22,6): warning C4101: 'area': unreferenced local variable
+  Generating Code...
+  SuperClass.vcxproj -> C:\Users\cmrEX\Documents\GitHub\C++ and-Unreal-Engine-Projects\SuperClass\Debug\SuperClass.exe

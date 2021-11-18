@@ -11,8 +11,9 @@ public:
 	int radius;
 
 	void getArea() {
-		int area = M_PI * (radius * radius);
-		cout << "The area of the circle is " + area << "\n";
+		float area;
+		area = M_PI * (radius * radius);
+		cout << area;
 	}
 
 

@@ -10,10 +10,11 @@ public:
 	int base;
 
 	void getArea() {
-		int triangleAreaCalc = .5;
-		int area = triangleAreaCalc * height * base;
-		cout << "The triangle's area is " + area << "\n";
+		float area;
+		area = (0.5) * height * base;
+		cout << area;
 	}
+	
 
 
 };
